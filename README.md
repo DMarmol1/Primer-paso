@@ -1,2 +1,1 @@
-# Primer-paso
-Este un repositorio de prueba de modulo 2 de Henry Primeros pasos 
+prueba de comer crerar mi repositorio y clonarlo desde github a mi computadora 
